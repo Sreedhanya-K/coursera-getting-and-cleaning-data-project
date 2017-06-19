@@ -5,14 +5,14 @@ output: word_document
   
   This document describes the variable, data and the clean up processes on the activities data
 
-##DATA
+## DATA
 
-##Identifiers
+## Identifiers
 
 * subject - each value denotes a person<br>
   * Activity - the activity performed by the subject while taking the measurement.
 
-##variables
+## variables
 
 The final data contains the below variables
 
@@ -96,7 +96,7 @@ The final data contains the below variables
 * fBodyBody-Gyroscope-JerkMagStd 
 * fBodyBody-Gyroscope-JerkMag-meanFreq()
 
-##Activity Labels
+## Activity Labels
 * LAYING
 * SITTING
 * STANDING
@@ -104,7 +104,7 @@ The final data contains the below variables
 * WALKING DOWNSTAIRS
 * WALKING UPSTAIRS
 
-##Steps to arrive at the Final Data
+## Steps to arrive at the Final Data
 * downloaded the file from the url
 * unzipped the data
 * merged the train and test data
