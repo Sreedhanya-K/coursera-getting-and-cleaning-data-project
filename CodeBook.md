@@ -1,12 +1,16 @@
-
-This document describes the variable, data and the clean up processes on the activities data
+  ---
+  title: "CodeBook"
+output: word_document
+---
+  
+  This document describes the variable, data and the clean up processes on the activities data
 
 ##DATA
 
 ##Identifiers
 
 * subject - each value denotes a person<br>
-* Activity - the activity performed by the subject while taking the measurement.
+  * Activity - the activity performed by the subject while taking the measurement.
 
 ##variables
 
@@ -107,4 +111,5 @@ The final data contains the below variables
 * subsetted the data for the columns which has mean/std information
 * formatted the column names
 * Added the subject and the activity labels to the data.
+
 
