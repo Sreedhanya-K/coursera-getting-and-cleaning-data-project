@@ -1,4 +1,3 @@
-setwd("C:\\Users\\U8002100\\Desktop\\Backup-Personal\\My files\\Coursera\\Getting and cleaning Data")
 #Project - Getting and cleaning data
 library(data.table)
 
